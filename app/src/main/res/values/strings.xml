@@ -1,0 +1,272 @@
+<resources>
+    <string name="app_name">Uravnenie2</string>
+    <string name="Title">Научись решать уравнения</string>
+    <string name="EnterName">Введите свое имя</string>
+    <string name="Done">Готово</string>
+    <string name="Start">Обучение</string>
+    <string name="OneTap">Знакомство с уравнениями</string>
+    <string name="TwoSubject">\nНу что начнем 2 тему?\n</string>
+    <string name="Teoria">Теория</string>
+    <string name="Stat">Статистика</string>
+    <string name="Exit">Выход</string>
+    <string name="Ok">Я запомнил</string>
+    <string name="Go">Начать обучение</string>
+    <string name="Go1">Да конечно</string>
+    <string name="Yes">Правильный ответ! Молодец!</string>
+    <string name="No">Не правильный ответ! Повторите снова!</string>
+    <string name="title_activity_second">second</string>
+    <string name="OneTopeStart">\nНу что начнем обучение?\n</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="title_activity_choice_subject">ActivityChoiceSubject</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="fg1">
+        \nУравнение - равенство, в\n
+        котором есть неизвестные\n
+        велечины.\n
+        \nПример: <b>x+5=8</b>\n
+        \nНеизвестные величины\n
+        заменяют буквами. В данном\n
+        случае <b>x</b> - неизвестное.\n
+    </string>
+
+    <string name="fg1A">
+        \nЧто из перечиленного\n
+        является уравнением?\n
+    </string>
+
+    <string name="A1_1">x>3</string>
+    <string name="A1_2">x+3</string>
+    <string name="A1_3">3+4=7</string>
+    <string name="A1_4">x+4=8</string>
+
+    <string name="fg1_2">
+        \nКорень уравнения - значение\n
+        неизвестной велечины в\n
+        уравнении
+        \n
+    </string>
+
+    <string name="fg1_2A">
+        \nЧему равен корень уравнения
+        \nx + 3 = 7?
+        \n
+    </string>
+
+    <string name="A2_1">5</string>
+    <string name="A2_2">4</string>
+    <string name="A2_3">8</string>
+    <string name="A2_4">3</string>
+
+    <string name="fg1_3">
+        \nРешить уравнение значит
+        \nнайти корень уравнения.
+        \n
+        \nУравнение считается
+        \nрешённым, когда мы получили
+        \nравенство, в котором
+        \nнеизвестное в одной стороне, а
+        \nна другой стороне число.
+        \n
+    </string>
+
+    <string name="fg1_3A">
+        \nЧто значит решить
+        \nуравнение?
+        \n
+    </string>
+
+    <string name="A3_1">избавиться от неизвестного</string>
+    <string name="A3_2">сравнить обе части уравнения</string>
+    <string name="A3_3">найти корень уравнения</string>
+    <string name="A3_4">сократить выражение</string>
+
+    <string name="fg1_4">
+        \nПодобные буквенные
+        \nвыражения - выражения
+        \nсодержащие одинаковые буквы
+        \n
+    </string>
+
+    <string name="fg1_4A">
+        \nКакие пары выражений
+        \nявляются подобными?
+        \n
+    </string>
+
+    <string name="A4_1">4х и 3х</string>
+    <string name="A4_2">4 и 5</string>
+    <string name="A4_3">4у и 4х</string>
+    <string name="A4_4">4 и 5х</string>
+
+    <string name="fg1_5">
+        \nЧтобы сложить или вычесть
+        \nподобные выражения нужно
+        \nсложить или вычести их
+        \nчисловые коэффициенты, а
+        \nбукву оставить.
+        \n
+    </string>
+
+    <string name="fg1_5A">
+        \nЧему равно 8х - 4х?
+        \n
+    </string>
+
+    <string name="A5_1">3х</string>
+    <string name="A5_2">5</string>
+    <string name="A5_3">4х</string>
+    <string name="A5_4">5y</string>
+
+    <string name="fg1EH">
+        \nМолодец!
+        \nПоловина знакомства с
+        \nуравнениями окончена.
+        \nПерейдем к их решению?
+        \n
+    </string>
+
+    <string name="fg1_6">
+        \nЧтобы найти неизвестное
+        \nслагаемое, нужно из суммы
+        \nвычесть другое слагаемое.
+        \n
+    </string>
+
+    <string name="fg1_6A">
+        \nЧему равно неизвестное в
+        \nпримере х + 7 = 13?
+        \n
+    </string>
+
+    <string name="A6_1">5</string>
+    <string name="A6_2">4</string>
+    <string name="A6_3">8</string>
+    <string name="A6_4">6</string>
+
+    <string name="fg1_7">
+        \nЧтобы найти неизвестное
+        \nуменьшаемое, нужно сложить
+        \nвычитаемое и разность.
+        \n
+    </string>
+
+    <string name="fg1_7A">
+        \nЧему равно неизвестное в
+        \nпримере х - 7 = 13?
+        \n
+    </string>
+
+    <string name="A7_1">20</string>
+    <string name="A7_2">4</string>
+    <string name="A7_3">8</string>
+    <string name="A7_4">6</string>
+
+    <string name="fg1_8">
+        \nЧтобы найти неизвестное
+        \nвычитаемое, нужно из
+        \nуменьшаемого вычесть разность.
+        \n
+    </string>
+
+    <string name="fg1_8A">
+        \nЧему равно неизвестное в
+        \nпримере 16 - х = 7?
+        \n
+    </string>
+
+    <string name="A8_1">20</string>
+    <string name="A8_2">4</string>
+    <string name="A8_3">9</string>
+    <string name="A8_4">6</string>
+
+    <string name="fg1_9">
+        \nЧтобы найти неизвестный
+        \nмножитель, нужно
+        \nпроизведение поделить на
+        \nизвестный множитель.
+        \n
+    </string>
+
+    <string name="fg1_9A">
+        \nЧему равно неизвестное в
+        \nпримере х * 4 = 12?
+        \n
+    </string>
+
+    <string name="A9_1">3</string>
+    <string name="A9_2">4</string>
+    <string name="A9_3">9</string>
+    <string name="A9_4">6</string>
+
+    <string name="fg1_10">
+        \nЧтобы найти неизвестное
+        \nделимое, нужно делитель
+        \nумножить на частное.
+        \n
+    </string>
+
+    <string name="fg1_10A">
+        \nЧему равно неизвестное в
+        \nпримере х : 4 = 5?
+        \n
+    </string>
+
+    <string name="A10_1">3</string>
+    <string name="A10_2">4</string>
+    <string name="A10_3">9</string>
+    <string name="A10_4">20</string>
+
+    <string name="fg1_11">
+        \nЧтобы найти неизвестный
+        \nделитель, нужно делимое
+        \nподелить на частное.
+        \n
+    </string>
+
+    <string name="fg1_11A">
+        \nЧему равно неизвестное в
+        \nпримере 14 : x = 7?
+        \n
+    </string>
+
+    <string name="A11_1">3</string>
+    <string name="A11_2">4</string>
+    <string name="A11_3">2</string>
+    <string name="A11_4">20</string>
+
+    <string name="fg1E">
+        \nМолодец!
+        \nЗнакомство с
+        \nуравнениями окончено.
+        \nПерейдем ко второму разделу?
+        \n
+    </string>
+    <string name="fg2_1">
+        \nЧисловой коэффициент -
+        \nчисло,которое стоит перед
+        \nбуквенным множителем
+        \n
+    </string>
+
+    <string name="fg2_1A">
+        \nЧему равен числовой
+        \nкоэфициент у выражения
+        \n-4a?
+        \n
+    </string>
+
+    <string name="A2_2_1">3</string>
+    <string name="A2_2_2">4</string>
+    <string name="A2_2_3">-4</string>
+    <string name="A2_2_4">4a</string>
+
+</resources>

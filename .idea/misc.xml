@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/drawable/button.xml" value="0.2595" />
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/layout/activity_choice_subject.xml" value="0.2" />
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/layout/activity_second.xml" value="0.264" />
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/layout/activity_start.xml" value="0.23505434782608695" />
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/layout/activity_static.xml" value="0.2346014492753623" />
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/layout/activity_teoria.xml" value="0.2346014492753623" />
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/layout/activity_two_subject.xml" value="0.16077898550724637" />
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/layout/content_activity_choice_subject.xml" value="0.16077898550724637" />
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/layout/fragment_first.xml" value="0.23505434782608695" />
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/layout/fragment_one.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/layout/fragment_one_answer.xml" value="0.2269021739130435" />
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/layout/fragment_one_eight.xml" value="0.16077898550724637" />
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/layout/fragment_one_eight_answer.xml" value="0.16077898550724637" />
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/layout/fragment_one_eleven.xml" value="0.16077898550724637" />
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/layout/fragment_one_eleven_answer.xml" value="0.16077898550724637" />
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/layout/fragment_one_end.xml" value="0.16077898550724637" />
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/layout/fragment_one_end_half.xml" value="0.16077898550724637" />
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/layout/fragment_one_five.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/layout/fragment_one_five_answer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/layout/fragment_one_four.xml" value="0.16077898550724637" />
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/layout/fragment_one_four_answer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/layout/fragment_one_nine.xml" value="0.16077898550724637" />
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/layout/fragment_one_nine_answer.xml" value="0.16077898550724637" />
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/layout/fragment_one_seven.xml" value="0.16077898550724637" />
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/layout/fragment_one_seven_answer.xml" value="0.16077898550724637" />
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/layout/fragment_one_six.xml" value="0.16077898550724637" />
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/layout/fragment_one_six_answer.xml" value="0.16077898550724637" />
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/layout/fragment_one_ten.xml" value="0.16077898550724637" />
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/layout/fragment_one_ten_answer.xml" value="0.16077898550724637" />
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/layout/fragment_one_three.xml" value="0.16077898550724637" />
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/layout/fragment_one_three_answer.xml" value="0.16077898550724637" />
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/layout/fragment_one_two.xml" value="0.264" />
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/layout/fragment_one_two_answer.xml" value="0.264" />
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/layout/fragment_second.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/layout/fragment_start.xml" value="0.2269021739130435" />
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/layout/fragment_two.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/layout/fragment_two_subject.xml" value="0.16077898550724637" />
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/layout/my_list_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/layout/show.xml" value="0.20742753623188406" />
+        <entry key="..\:/Users/79991/AndroidStudioProjects/Uravnenie2/app/src/main/res/layout/start.xml" value="0.23505434782608695" />
+        <entry key="..\:/Users/79991/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_expandable_list_item_1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/79991/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_list_item_1.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

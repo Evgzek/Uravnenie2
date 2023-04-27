@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/math"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/Title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20sp"
+        android:background="@drawable/button"
+        android:text="@string/Title"
+        android:textAlignment="center"
+        android:textColor="#C4000000"
+        android:textSize="24sp"
+        tools:text="@string/Title" />
+    //загаловок
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="400sp"
+        android:layout_below="@id/Title"
+        android:layout_marginTop="50sp"
+        app:srcCompat="@drawable/start_image" />
+    //развлекательная картинка
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/imageView2"
+        android:layout_marginHorizontal="50sp"
+        android:layout_marginTop="10sp"
+        android:background="@drawable/button"
+        android:text="Пф, конечно смогу"
+        android:textAllCaps="false"
+        android:textSize="20sp" />
+    //кнопка с положительным ответом
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/Exit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btn"
+        android:layout_marginHorizontal="50sp"
+        android:layout_marginTop="30sp"
+        android:background="@drawable/button"
+        android:text="Нее, эт не для меня"
+        android:textAllCaps="false"
+        android:textSize="20sp" />
+    //кнопка с отрицательным ответом
+</RelativeLayout>

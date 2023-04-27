@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">//кнопка при умолчание
+        <shape android:shape="rectangle" >
+            //форма кнопки прямоугольник
+            <corners android:radius="10dip" />
+            //закругленность кнопки
+            <stroke android:width="3dip" android:color="#9e3d1c" />
+            //цвет контовки кнопки
+            <gradient android:angle="180" android:startColor="#FF8C00" android:endColor="#FFA500"/>
+            //градиент
+        </shape>
+    </item>
+    <item android:state_focused="true">
+        //кнопка фокусируется на использовании dpad или трекбола
+        <shape android:shape="rectangle" >
+            <corners android:radius="10dip" />
+            <stroke android:width="3dip" android:color="#9e3d1c" />
+            <gradient android:angle="180" android:startColor="#FF8C00" android:endColor="#FFA500"/>
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle" >
+            <corners android:radius="10dip" />
+            <stroke android:width="2dip" android:color="#9e3d1c" />
+            <gradient android:angle="180" android:startColor="#FF8C00" android:endColor="#FFA500"/>
+        </shape>
+    </item>
+</selector>

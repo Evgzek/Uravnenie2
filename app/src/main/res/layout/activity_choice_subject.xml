@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/math"
+    tools:context=".ChoiceSubject">
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn1subject"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button"
+        android:layout_marginHorizontal="100sp"
+        android:layout_marginTop="20sp"
+        android:text="Тема 1" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn2subject"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button"
+        android:layout_below="@id/btn1subject"
+        android:layout_marginHorizontal="100sp"
+        android:visibility="invisible"
+        android:layout_marginTop="20sp"
+        android:text="Тема 2" />
+
+</RelativeLayout>

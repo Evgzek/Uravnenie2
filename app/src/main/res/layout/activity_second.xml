@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/math"
+    tools:context=".second">
+
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/Start"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="50sp"
+        android:layout_marginTop="150sp"
+        android:background="@drawable/button"
+        android:text="@string/Start"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/Teoria"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Start"
+        android:layout_marginHorizontal="50sp"
+        android:layout_marginTop="50sp"
+        android:background="@drawable/button"
+        android:text="@string/Teoria"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/Stat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Teoria"
+        android:layout_marginHorizontal="50sp"
+        android:layout_marginTop="50sp"
+        android:background="@drawable/button"
+        android:text="@string/Stat"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/Exit2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Stat"
+        android:layout_marginHorizontal="50sp"
+        android:layout_marginTop="50sp"
+        android:background="@drawable/button"
+        android:text="@string/Exit"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+</RelativeLayout>
